@@ -15,5 +15,6 @@ if database is not created then while running the project it will automatically 
 
 ## User Details
 |Id|Username|Password|Role|
+|-|-----|---------|-----|
 |1|admin|admin@123|admin|
 |2|user|user@123|user|
